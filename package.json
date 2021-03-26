@@ -1,5 +1,6 @@
 {
   "name": "travel-agency",
+  "homepage": "http://rababahmed.github.io/travel-agency",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

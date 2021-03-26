@@ -16,7 +16,7 @@ const Main = () => {
     const options = {
       method: "GET",
       url:
-        "https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/browsequotes/v1.0/US/USD/en-US/" +
+        "https://skyscanner-skyscanner-flight-search-v1.p.rapidapi.com/apiservices/browsequotes/v1.0/BD/BDT/en-US/" +
         origin +
         "-sky/" +
         destination +
@@ -59,7 +59,7 @@ const Main = () => {
             type="text"
             name="destination"
             id=""
-            placeholder="Eg. LHR"
+            placeholder="LHR"
             value={destination}
           />
           <button type="submit">Search Flights</button>
