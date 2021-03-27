@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/travel-agency/static/css/main.cc633d9e.chunk.css",
-    "main.js": "/travel-agency/static/js/main.10927a06.chunk.js",
-    "main.js.map": "/travel-agency/static/js/main.10927a06.chunk.js.map",
-    "runtime-main.js": "/travel-agency/static/js/runtime-main.4d93b2d5.js",
-    "runtime-main.js.map": "/travel-agency/static/js/runtime-main.4d93b2d5.js.map",
-    "static/js/2.1b95750b.chunk.js": "/travel-agency/static/js/2.1b95750b.chunk.js",
-    "static/js/2.1b95750b.chunk.js.map": "/travel-agency/static/js/2.1b95750b.chunk.js.map",
-    "index.html": "/travel-agency/index.html",
-    "static/css/main.cc633d9e.chunk.css.map": "/travel-agency/static/css/main.cc633d9e.chunk.css.map",
-    "static/js/2.1b95750b.chunk.js.LICENSE.txt": "/travel-agency/static/js/2.1b95750b.chunk.js.LICENSE.txt"
+    "main.css": "/flight-finder/static/css/main.cc633d9e.chunk.css",
+    "main.js": "/flight-finder/static/js/main.ee0dfe9f.chunk.js",
+    "main.js.map": "/flight-finder/static/js/main.ee0dfe9f.chunk.js.map",
+    "runtime-main.js": "/flight-finder/static/js/runtime-main.d8198b59.js",
+    "runtime-main.js.map": "/flight-finder/static/js/runtime-main.d8198b59.js.map",
+    "static/js/2.1b95750b.chunk.js": "/flight-finder/static/js/2.1b95750b.chunk.js",
+    "static/js/2.1b95750b.chunk.js.map": "/flight-finder/static/js/2.1b95750b.chunk.js.map",
+    "index.html": "/flight-finder/index.html",
+    "static/css/main.cc633d9e.chunk.css.map": "/flight-finder/static/css/main.cc633d9e.chunk.css.map",
+    "static/js/2.1b95750b.chunk.js.LICENSE.txt": "/flight-finder/static/js/2.1b95750b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d93b2d5.js",
+    "static/js/runtime-main.d8198b59.js",
     "static/js/2.1b95750b.chunk.js",
     "static/css/main.cc633d9e.chunk.css",
-    "static/js/main.10927a06.chunk.js"
+    "static/js/main.ee0dfe9f.chunk.js"
   ]
 }
