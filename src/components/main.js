@@ -22,7 +22,7 @@ const Main = () => {
         destination +
         "-sky/anytime",
       headers: {
-        "x-rapidapi-key": "31799ff833mshdc413de7a349e59p15c832jsnfd2a01775473",
+        "x-rapidapi-key": process.env.REACT_APP_SKY_KEY,
         "x-rapidapi-host":
           "skyscanner-skyscanner-flight-search-v1.p.rapidapi.com",
       },
